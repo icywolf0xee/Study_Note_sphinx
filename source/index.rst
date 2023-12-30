@@ -10,13 +10,12 @@
 
 
 Welcome to studt_note's documentation!
-======================================
-.. caonima
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+about
 
 
 Indices and tables
