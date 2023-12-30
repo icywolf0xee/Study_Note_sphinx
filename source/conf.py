@@ -20,7 +20,8 @@ master_doc = 'index'
 extensions = []
 
 templates_path = ['_templates']
-exclude_patterns = []
+# exclude_patterns = []
+extensions = ['recommonmark','sphinx_markdown_tables']
 
 language = 'zh_CN'
 
