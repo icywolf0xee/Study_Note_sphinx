@@ -15,7 +15,7 @@ Welcome to studt_note's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+about
 
 
 Indices and tables
