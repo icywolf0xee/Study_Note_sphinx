@@ -24,7 +24,7 @@ extensions = []
 templates_path = ['_templates']
 
 
-exclude_patterns = []
+exclude_patterns = ['sphinx_rtd_theme']
 # extensions = ['recommonmark','sphinx_markdown_tables']
 # extensions = ['recommonmark']
 
