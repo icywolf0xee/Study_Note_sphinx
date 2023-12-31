@@ -19,12 +19,12 @@ release = 'V1.0'
 master_doc = 'index'
 
 
-extensions = ['sphinx_rtd_theme']
+extensions = []
 
 templates_path = ['_templates']
 
 
-# exclude_patterns = ['sphinx_rtd_theme']
+exclude_patterns = []
 # extensions = ['recommonmark','sphinx_markdown_tables']
 # extensions = ['recommonmark']
 
