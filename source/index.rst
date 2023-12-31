@@ -4,23 +4,34 @@
    contain the root `toctree` directive.
 
 
+目录
+=====
 
+本文档自2023年12月31日创建，用于记录学习。用于记录学习问题，同步Git并且上传ReadTheDocs供于随时查看。
 
-
-
-
-Welcome to studt_note's documentation!
+文档GitHub地址:   https://github.com/icywolf0xee/Study_Note_sphinx
+::
+   目前出现问题，无法显示侧边导航栏
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: 更新日志
+   :numbered:
+
+   ChangeLog/2023_12_31
 
 
+.. toctree::
+   :caption: 通用部分
+   :numbered:
 
 
-Indices and tables
-==================
+   Universal/Mirror
+ 
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :caption: GitHub
+   :numbered:
+
+   Github/BasicCmd
+   Github/TeamWork
+   Github/ProblemLog 
