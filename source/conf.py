@@ -19,7 +19,7 @@ release = 'V1.0'
 master_doc = 'index'
 
 
-extensions = []
+extensions = ['sphinx_rtd_theme']
 
 templates_path = ['_templates']
 
