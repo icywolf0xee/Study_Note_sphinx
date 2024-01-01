@@ -11,14 +11,15 @@
 
 文档GitHub地址:   https://github.com/icywolf0xee/Study_Note_sphinx
 ::
-   目前出现问题，无法显示侧边导航栏
+   目前出现问题，无法显示侧边导航栏（仅在修改时不能显示，通过编译完成上传ReadTheDocs之后正常）
 
 .. toctree::
    :caption: 更新日志
    :numbered:
 
    ChangeLog/2023_12_31
-
+   ChangeLog/2024
+   
 
 .. toctree::
    :caption: 通用部分
@@ -35,3 +36,11 @@
    Github/BasicCmd
    Github/TeamWork
    Github/ProblemLog 
+
+
+
+.. toctree::
+   :caption: 其他项目笔记
+   :numbered:
+
+   OtherNoteAddress
