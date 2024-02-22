@@ -5,12 +5,12 @@
 
 
 目录
-=====
+=======
 
 本文档自2023年12月31日创建，用于记录学习。用于记录学习问题，同步Git并且上传ReadTheDocs供于随时查看。
 
-
-嵌入式LINUX文档地址 :https://embeddedlinux-note-sphinx.readthedocs.io/en/latest/index.html
+跳转其他地址:
+   嵌入式LINUX文档地址 :https://embeddedlinux-note-sphinx.readthedocs.io/en/latest/index.html
 
 
 .. toctree::
